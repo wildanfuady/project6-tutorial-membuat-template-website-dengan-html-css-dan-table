@@ -6,7 +6,6 @@ Baik, mari kita mulai.
 
 Pertama buat file HTML dan beri nama project6.html dan berikut scriptnya:
 
-<pre>
 <html>
 <head>
 <title>Project 6 - Rumah Coding</title>
@@ -89,11 +88,9 @@ Pertama buat file HTML dan beri nama project6.html dan berikut scriptnya:
 </table>
 </body>
 </html>
-</pre>
 
 Langkah berikutnya silahkan buat file bernama style.css dan berikut scriptnya:
 
-<pre>
 body{
 	margin: 0 auto;
 }
@@ -210,6 +207,5 @@ hr{
 .footer a:hover{
 	color: #5b4a02;
 }
-</pre>
 
 Selesai. Happy Coding!
